@@ -1,8 +1,8 @@
-# Next.js를 활용한 Portfolio site 만들기
+# Next.js를 활용한 Stay-Mate 랜딩 페이지 제작하기
 
 - 실핼 방법
 ```
-git clone https://github.com/azure-553/next-portfolio.git
+git clone https://github.com/Stay-Mate/Stay-Mate-RandingPage.git
 npm i
 npm run dev
 ```
