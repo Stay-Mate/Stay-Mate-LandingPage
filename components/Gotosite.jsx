@@ -23,11 +23,6 @@ const Gotosite = () => {
             지금 바로 이용해 보세요!
             </a>
           </p>
-          {/* <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I’m focused on building responsive front-end web applications
-            integrating back-end technologies.
-          </p>
-           */}
         </div>
       </div>
     </main>

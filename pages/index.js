@@ -4,7 +4,6 @@ import { Inter } from 'next/font/google'
 import Main from '@/components/Main'
 import About from '@/components/About'
 import Skills from '@/components/Skills'
-import Project from '@/components/Project'
 import Contact from '@/components/Contact'
 import Gotosite from '@/components/Gotosite'
 
@@ -23,7 +22,6 @@ export default function Home() {
       <About/>
       <Skills/>
       <Gotosite/>
-      {/* <Project/> */}
       <Contact/>
     </>
   )

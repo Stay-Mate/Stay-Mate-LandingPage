@@ -24,10 +24,10 @@ const About = () => {
           {/* <p className="py-2 text-gray-600 underline cursor-pointer">Check out some of my latest projects.</p> */}
         </div>
         <div className="'w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-          <Image src="/../public/assets/profile.jpg" width="300" height="100" alt="/" className="rounded-xl" />
+          <Image src="/assets/profile.jpg" width="300" height="100" alt="/" className="rounded-xl" />
         </div>
         <div className="'w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
-          <Image src="/../public/assets/profile2.jpg" width="300" height="100" alt="/" className="rounded-xl" />
+          <Image src="/assets/profile2.jpg" width="300" height="100" alt="/" className="rounded-xl" />
         </div>
         <div className="col-span-2">
           <p className="uppercase text-xl tracking-widest text-[#FF8989]">About</p>
