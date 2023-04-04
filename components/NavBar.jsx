@@ -94,7 +94,7 @@ function NavBar() {
           <div>
             <div className="flex w-full items-center justify-between">
               <Image
-                src="/../public/assets/navLogo.png"
+                src="/assets/navLogo.png"
                 alt="/"
                 width="87"
                 height="15"
